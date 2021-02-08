@@ -17,7 +17,7 @@ dnspython==1.16.0
 entrypoints==0.3
 future==0.16.0
 gpg===1.13.1-unknown
-httplib2==0.14.0
+httplib2==0.19.0
 idna==2.6
 jeepney==0.4.2
 kazam==1.4.5
